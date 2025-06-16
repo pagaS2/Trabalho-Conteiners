@@ -12,7 +12,7 @@ O objetivo deste projeto é apresentar um ambiente de banco de dados PostgreSQL 
 
 ## 🚀 Tecnologias Utilizadas
 
-- **PostgreSQL** – Sistema gerenciador de banco de dados relacional.
+- **MySQL** – Sistema gerenciador de banco de dados relacional.
 - **Docker** – Plataforma para criação e gerenciamento de contêineres.
 - **CMD (Prompt de Comando)** – Interface de linha de comando do Windows utilizada para executar os comandos.
 
