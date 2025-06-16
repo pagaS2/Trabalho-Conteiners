@@ -1,4 +1,4 @@
-# 🐳 Inicialização de Banco de Dados PostgreSQL com Docker no Windows
+# 🐳 Inicialização de Banco de Dados MySQL com Docker no Windows
 
 Este projeto demonstra o processo de criação e execução de um contêiner Docker com MySQL em um ambiente Windows, utilizando o terminal (CMD). Ideal para quem deseja configurar um banco de dados local de forma rápida e prática usando Docker.
 
