@@ -38,4 +38,4 @@ docker pull mysql
 docker images
 
 # 3. Criar e executar o contêiner
-docker run --name trabalho -e MYSQL_ROOT_PASSWORD=1302 -v trabalho:/var/lib/mysl -p 5432:5432 -d mysql
+docker run --name trabalho -e MYSQL_ROOT_PASSWORD=1302 -v trabalho:/var/lib/mysl -p 3306:3306 -d mysql
